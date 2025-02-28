@@ -1,0 +1,65 @@
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\WpfBeauty.exe.config
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\WpfBeauty.exe
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\WpfBeauty.pdb
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\EntityFramework.dll
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\EntityFramework.SqlServer.dll
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\EntityFramework.xml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\EntityFramework.SqlServer.xml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\bin\Debug\ru\EntityFramework.resources.dll
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.csproj.AssemblyReference.cache
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\MainWindow.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ServicesGRUD.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\App.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty_Content.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty_MarkupCompile.cache
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty_MarkupCompile.lref
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\MainWindow.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ServicesGRUD.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.g.resources
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.Properties.Resources.resources
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.csproj.GenerateResource.cache
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.csproj.CoreCompileInputs.cache
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.csproj.Up2Date
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.exe
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\WpfBeauty.pdb
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\App.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ModePage.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ModePage.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ServiceForm.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\ServiceForm.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\SignUpClient.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\SignUpClient.baml
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\Upcoming.g.cs
+C:\hwaya\parasha\!!4 course\МДК02.02\Салон красоты - услуги\project\WpfBeauty\obj\Debug\Pages\Upcoming.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.csprojAssemblyReference.cache
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ModePage.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ServiceForm.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ServicesGRUD.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\SignUpClient.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\Upcoming.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\App.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty_Content.g.cs
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty_MarkupCompile.cache
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty_MarkupCompile.lref
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.exe
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.pdb
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\WpfBeauty.exe.config
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\WpfBeauty.exe
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\WpfBeauty.pdb
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\салон_красоты\beauty-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\App.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ModePage.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ServiceForm.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\ServicesGRUD.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\SignUpClient.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\Pages\Upcoming.baml
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.g.resources
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.Properties.Resources.resources
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.csproj.GenerateResource.cache
+C:\Users\User\Desktop\салон_красоты\beauty-main\obj\Debug\WpfBeauty.csproj.CopyComplete
